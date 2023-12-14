@@ -2,13 +2,7 @@
 
 $params = array(
   'source' => 'universal',
-  'url' => 'https://en.wikipedia.org/wiki/Oxylabs',
-  'context' => [
-    [
-        'key' => 'follow_redirects',
-        'value' => true,
-    ]
-  ],
+  'url' => 'https://en.wikipedia.org/wiki/Oxylabs'
 );
 
 $ch = curl_init();
