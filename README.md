@@ -44,7 +44,7 @@ Find code examples for other programming languages [**here**](https://github.com
 
 #### Output example
 
-```json
+```html
 {
   "results": [
     {
