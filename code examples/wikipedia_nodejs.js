@@ -5,9 +5,6 @@ const password = 'YOUR_PASSWORD';
 const body = {
  'source': 'universal',
  'url': 'https://en.wikipedia.org/wiki/Oxylabs',
- 'context': [
-   {'key': 'follow_redirects', 'value': true}
-  ]
 };
 const response = await fetch('https://realtime.oxylabs.io/v1/queries', {
   method: 'post',
