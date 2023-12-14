@@ -12,13 +12,10 @@ func main() {
     const Username = "YOUR_USERNAME"
     const Password = "YOUR_PASSWORD"
 
-    payload := map[string]interface{}{
-	"source": "universal",
+    payload := map[string]string{
+      	"source": "universal",
 	"url": "https://en.wikipedia.org/wiki/Oxylabs",
-	"context": []map[string]interface{}{
-             {"key": "follow_redirects", value: true},
-         }
-    }
+          }
 
     jsonValue, _ := json.Marshal(payload)
 
