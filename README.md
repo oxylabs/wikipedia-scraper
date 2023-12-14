@@ -44,7 +44,7 @@ Find code examples for other programming languages [here](https://github.com/oxy
 
 #### Output example
 
-```html
+```json
 {
   "results": [
     {
