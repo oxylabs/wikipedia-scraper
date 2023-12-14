@@ -8,7 +8,7 @@ Follow this guide to scrape Wikipedia using our [Scraper API](https://oxylabs.io
 
 ### How it works
 
-You can get Wikipedia results by providing your own URLs to our service. We can return the HTML of any Wikipedia page you like.
+You can get Wikipedia results by providing your URLs to our service. We can return an HTML of any Wikipedia page.
 
 #### Python code example
 
