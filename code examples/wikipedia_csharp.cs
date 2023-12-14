@@ -13,12 +13,10 @@ namespace OxyApi
             const string Username = "YOUR_USERNAME";
             const string Password = "YOUR_PASSWORD";
 
-            var parameters = new {
-		source = "universal",
-		url = "https://en.wikipedia.org/wiki/Oxylabs",
-		context = new dynamic [] {
-		     new { key = "follow_redirects", value = true },
-                }
+            var parameters = new Dictionary&lt;string, string>()
+            {
+		{"source", "universal"},
+		{"url", "https://en.wikipedia.org/wiki/Oxylabs"}
             };
 
             var client = new HttpClient();
