@@ -40,7 +40,7 @@ response = requests.request(
 pprint(response.json())
 ```
 
-Find code examples for other programming languages [**here**](https://github.com/oxylabs/wikipedia-scraper/tree/main/code%20examples), and see Oxylabs documentation for more details.
+Find code examples for other programming languages [**here**](https://github.com/oxylabs/wikipedia-scraper/tree/main/code%20examples), and see Oxylabs [documentation](https://developers.oxylabs.io/scraper-apis/web-scraper-api) for more details.
 
 #### Output example
 
