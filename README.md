@@ -21,10 +21,7 @@ from pprint import pprint
 # Structure payload.
 payload = {
    'source': 'universal',
-   'url': 'https://en.wikipedia.org/wiki/Oxylabs',
-   'context': [
-        {'key': 'follow_redirects', "value": True}
-      ],
+   'url': 'https://en.wikipedia.org/wiki/Oxylabs'
 }
 
 # Get response.
