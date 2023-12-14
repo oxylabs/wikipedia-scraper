@@ -4,7 +4,7 @@
 
 With [Wikipedia Scraper](https://oxylabs.io/products/scraper-api/web/wikipedia), you can gather public data, such as article content, its edit history, images, profile pages, and much more, from Wikipedia pages on a large scale and without interruptions. 
 
-Follow this guide to scrape Wikipedia using our [Scraper APIs](https://oxylabs.io/products/scraper-api). 
+Follow this guide to scrape Wikipedia using our [Scraper API](https://oxylabs.io/products/scraper-api). 
 
 ### How it works
 
