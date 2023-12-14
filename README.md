@@ -48,9 +48,7 @@ Find code examples for other programming languages [here](https://github.com/oxy
 {
   "results": [
     {
-      "content": "<!doctype html>\n<html lang=\"en\">\n<head>
-      ...
-      </script></body>\n</html>\n",
+      "content": "<!doctype html>\n<html lang=\"en\">\n<head>...</script></body>\n</html>\n",
       "created_at": "2023-06-28 07:56:42",
       "updated_at": "2023-06-28 07:56:43",
       "page": 1,
